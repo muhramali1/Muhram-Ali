@@ -2,7 +2,8 @@
 learner web and app
 <h1 align="center">Hi 👋, I'm muhram Ali</h1>
 <h3 align="center">learner web and app</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/muhramali1/Muhram-Ali/assets/137602657/2e444584-83e3-4ce0-a8a6-43cbc47003f7)
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhramali1&label=Profile%20views&color=0e75b6&style=flat" alt="muhramali1" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://muhramaliportfolio.netlify.app/)
