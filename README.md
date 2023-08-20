@@ -5,11 +5,11 @@ learner web and app
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw3hkPxXTBhWgt4YHPTZ4uhs&ust=1692382894991000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCX7Nyn5IADFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhramali1&label=Profile%20views&color=0e75b6&style=flat" alt="muhramali1" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://muhramaliportfolio.netlify.app/)
+- 🔭 I’m currently working on [my portfolio](https://myupdateportfolio.netlify.app/)
 
 - 🌱 I’m currently learning **html,css,JS**
 
-- 👨‍💻 All of my projects are available at [https://muhramaliportfolio.netlify.app/](https://muhramaliportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhramaliportfolio.netlify.app/](https://myupdateportfolio.netlify.app/)
 
 - 💬 Ask me about **anything**
 
